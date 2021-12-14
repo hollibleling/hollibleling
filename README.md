@@ -1,8 +1,10 @@
-### Hello everyone :smile:
-
-My name is Jungsoo Kim.
+### <div align="center"> Hello everyone :smile: </div>
+<div align="center"> 
+  
+**My name is Jungsoo Kim.**
 
 I will get my job as web back-end programmer.
+  </div>
 <br>
 
 ## <div align="center"> :file_folder: Tech Stack :file_folder: </div>
